@@ -176,4 +176,3 @@ class _SyntheticDataset(Dataset):
 #         return SyntheticData(**result)
         
 #     return _build_from_single
-

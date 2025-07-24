@@ -255,4 +255,3 @@ def cumulative_majority(
         torch.tensor(labels), 
         slices={"input_seq_len": config.input_seq_len}
     )
-
