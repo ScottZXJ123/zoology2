@@ -1,0 +1,32 @@
+# Caches and temporary files
+__pycache__/
+*.pyc
+.cache/
+.hf_home/
+
+# Virtual environments
+venv/
+.venv/
+*.env
+.venv-backups/
+
+# Logs and outputs
+logs/
+wandb/
+*.log
+*.out
+results/
+*.tar.gz
+
+# OS-specific files
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Other projects/repositories
+# zoology1/   <- Temporarily commenting out to add to repo
+ChartMoE2/  <- Temporarily commenting out to add to repo
+
+# Large installation files
+*.sh
