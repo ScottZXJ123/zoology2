@@ -1,0 +1,1 @@
+# Caches and temporary files\n__pycache__/\n*.pyc\n.cache/\n.hf_home/\n\n# Virtual environments\nvenv/\n.venv/\n*.env\n.venv-backups/\n\n# Logs and outputs\nlogs/\nwandb/\n*.log\n*.out\nresults/\n*.tar.gz\n\n# OS-specific files\n.DS_Store\n\n# IDE files\n.vscode/\n\n# Other projects/repositories\nzoology1/\nChartMoE2/\n\n# Large installation files\n*.sh
